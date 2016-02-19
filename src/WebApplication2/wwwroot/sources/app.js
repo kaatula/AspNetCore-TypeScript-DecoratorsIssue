@@ -18,3 +18,4 @@ var MyRealClass = (function () {
     ], MyRealClass.prototype, "hiddenDimensions", void 0);
     return MyRealClass;
 })();
+//# sourceMappingURL=app.js.map
